@@ -1,0 +1,17 @@
+{
+  "history_period_start": "2023-10-26",
+  "history_period_end": "2025-09-30",
+  "definition": "Counts of each carrier's inspections dated on or before Sep 30, 2025, i.e. strictly before every FY2026 inspection in the sample. carrier_prior_vehicle_* use levels 1, 2, 5, 6 only.",
+  "full_file_rows_read": 8274802,
+  "history_rows_used": 3191227,
+  "sample_carriers": 92525,
+  "carriers_with_prior_vehicle_inspections": 74946,
+  "prior_vehicle_inspections_total": 2090076,
+  "prior_vehicle_oos_rate_pooled": 0.18561956598707416,
+  "columns": [
+    "DOT_NUMBER",
+    "carrier_prior_insp_all",
+    "carrier_prior_vehicle_insp",
+    "carrier_prior_vehicle_oos"
+  ]
+}
